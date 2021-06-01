@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aws-apigateway-example" />
+        <module name="spring-boot-crud-example-2" />
+        <module name="kafka-consumer" />
+        <module name="emailService (1)" />
+        <module name="spring-mongodb" />
+        <module name="file-storage-service" />
+        <module name="user-service" />
+        <module name="repository" />
+        <module name="spring-boot-elasticserach-example (1)" />
+        <module name="spring-boot-micrometer" />
+        <module name="google-jib-example" />
+        <module name="spring-graphQL" />
+        <module name="spring-boot-docker" />
+        <module name="spring-boot-docker-maven" />
+        <module name="kafka-publisher" />
+        <module name="spring-boot-jasper-report" />
+        <module name="spring-basic-security" />
+        <module name="spring-boot-multiple-ds" />
+        <module name="spring-boot-admin" />
+        <module name="email-app" />
+        <module name="spring-boot-elasticserach-example" />
+        <module name="spring-boot-h2" />
+        <module name="spring-vault-config-example" />
+        <module name="spring-boot-logging" />
+        <module name="spring-boot-hibernate" />
+        <module name="spring-boot-camel" />
+        <module name="spring-boot-mockito" />
+        <module name="emailService" />
+        <module name="spring-boot-email-freemarker" />
+        <module name="domain" />
+        <module name="aws-elasticbeanstalk-example" />
+        <module name="registration-service" />
+        <module name="bookMyShow" />
+        <module name="spring-boot-actuator" />
+        <module name="paytm (1)" />
+        <module name="web" />
+        <module name="spring-boot-admin-client" />
+        <module name="bookMyShow (1)" />
+        <module name="spring-mysql" />
+        <module name="camel-rest-dsl" />
+        <module name="spring-boot-crud-example-2 (1)" />
+        <module name="spring-cloud-oauth2-example" />
+        <module name="spring-boot-okta-sso" />
+        <module name="spring-freemarker-example" />
+        <module name="service" />
+        <module name="spring-cloud-foundry-example" />
+        <module name="springboot-multithreading-example" />
+        <module name="paytm" />
+        <module name="spring-data-redis-example" />
+        <module name="spring-boot-websocket" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aws-apigateway-example" target="1.8" />
+      <module name="aws-elasticbeanstalk-example" target="1.8" />
+      <module name="bookMyShow" target="1.8" />
+      <module name="bookMyShow (1)" target="1.8" />
+      <module name="camel-rest-dsl" target="1.8" />
+      <module name="cloud-foundry-eclipse" target="1.8" />
+      <module name="domain" target="1.8" />
+      <module name="email-app" target="1.8" />
+      <module name="emailService" target="1.8" />
+      <module name="emailService (1)" target="1.8" />
+      <module name="file-storage-service" target="1.8" />
+      <module name="google-jib-example" target="1.8" />
+      <module name="hospital-management-system" target="1.8" />
+      <module name="kafka-consumer" target="1.8" />
+      <module name="kafka-publisher" target="1.8" />
+      <module name="paytm" target="1.8" />
+      <module name="paytm (1)" target="1.8" />
+      <module name="registration-service" target="1.8" />
+      <module name="repository" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="spring-basic-security" target="1.8" />
+      <module name="spring-boot-actuator" target="1.8" />
+      <module name="spring-boot-admin" target="1.8" />
+      <module name="spring-boot-admin-client" target="1.8" />
+      <module name="spring-boot-camel" target="1.8" />
+      <module name="spring-boot-crud-example-2" target="1.8" />
+      <module name="spring-boot-crud-example-2 (1)" target="1.8" />
+      <module name="spring-boot-docker" target="1.8" />
+      <module name="spring-boot-docker-maven" target="1.8" />
+      <module name="spring-boot-elasticserach-example" target="1.8" />
+      <module name="spring-boot-elasticserach-example (1)" target="1.8" />
+      <module name="spring-boot-email-freemarker" target="1.8" />
+      <module name="spring-boot-h2" target="1.8" />
+      <module name="spring-boot-hibernate" target="1.8" />
+      <module name="spring-boot-jasper-report" target="1.8" />
+      <module name="spring-boot-logging" target="1.8" />
+      <module name="spring-boot-micrometer" target="1.8" />
+      <module name="spring-boot-mockito" target="1.8" />
+      <module name="spring-boot-multiple-ds" target="1.8" />
+      <module name="spring-boot-okta-sso" target="1.8" />
+      <module name="spring-boot-websocket" target="1.8" />
+      <module name="spring-cloud-foundry-example" target="1.8" />
+      <module name="spring-cloud-oauth2-example" target="1.8" />
+      <module name="spring-data-redis-example" target="1.8" />
+      <module name="spring-freemarker-example" target="1.8" />
+      <module name="spring-graphQL" target="1.8" />
+      <module name="spring-mongodb" target="1.8" />
+      <module name="spring-mysql" target="1.8" />
+      <module name="spring-vault-config-example" target="1.8" />
+      <module name="springboot-multithreading-example" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aws-apigateway-example" options="-parameters" />
+      <module name="aws-elasticbeanstalk-example" options="-parameters" />
+      <module name="bookMyShow" options="-parameters" />
+      <module name="bookMyShow (1)" options="-parameters" />
+      <module name="camel-rest-dsl" options="-parameters" />
+      <module name="cloud-foundry-eclipse" options="-parameters" />
+      <module name="domain" options="-parameters" />
+      <module name="email-app" options="-parameters" />
+      <module name="emailService" options="-parameters" />
+      <module name="emailService (1)" options="-parameters" />
+      <module name="file-storage-service" options="-parameters" />
+      <module name="google-jib-example" options="-parameters" />
+      <module name="kafka-consumer" options="-parameters" />
+      <module name="kafka-publisher" options="-parameters" />
+      <module name="paytm" options="-parameters" />
+      <module name="paytm (1)" options="-parameters" />
+      <module name="registration-service" options="-parameters" />
+      <module name="repository" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="spring-basic-security" options="-parameters" />
+      <module name="spring-boot-actuator" options="-parameters" />
+      <module name="spring-boot-crud-example-2" options="-parameters" />
+      <module name="spring-boot-crud-example-2 (1)" options="-parameters" />
+      <module name="spring-boot-docker" options="-parameters" />
+      <module name="spring-boot-docker-maven" options="-parameters" />
+      <module name="spring-boot-elasticserach-example" options="-parameters" />
+      <module name="spring-boot-email-freemarker" options="-parameters" />
+      <module name="spring-boot-h2" options="-parameters" />
+      <module name="spring-boot-jasper-report" options="-parameters" />
+      <module name="spring-boot-micrometer" options="-parameters" />
+      <module name="spring-boot-mockito" options="-parameters" />
+      <module name="spring-boot-multiple-ds" options="-parameters" />
+      <module name="spring-boot-okta-sso" options="-parameters" />
+      <module name="spring-boot-websocket" options="-parameters" />
+      <module name="spring-cloud-oauth2-example" options="-parameters" />
+      <module name="spring-data-redis-example" options="-parameters" />
+      <module name="spring-freemarker-example" options="-parameters" />
+      <module name="spring-mongodb" options="-parameters" />
+      <module name="spring-vault-config-example" options="-parameters" />
+      <module name="springboot-multithreading-example" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+      <module name="web" options="-parameters" />
+    </option>
+  </component>
+</project>

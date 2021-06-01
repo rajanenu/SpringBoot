@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-aws-apigateway/aws-apigateway-example.iml" filepath="$PROJECT_DIR$/springboot-aws-apigateway/aws-apigateway-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws-elasticbeanstalk-example/aws-elasticbeanstalk-example.iml" filepath="$PROJECT_DIR$/aws-elasticbeanstalk-example/aws-elasticbeanstalk-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hystrix/bookMyShow/bookMyShow.iml" filepath="$PROJECT_DIR$/spring-boot-hystrix/bookMyShow/bookMyShow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hystrix-dashboard/bookMyShow/bookMyShow (1).iml" filepath="$PROJECT_DIR$/spring-boot-hystrix-dashboard/bookMyShow/bookMyShow (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-camel-rest-dsl/camel-rest-dsl.iml" filepath="$PROJECT_DIR$/spring-camel-rest-dsl/camel-rest-dsl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-multi-module-application/domain/domain.iml" filepath="$PROJECT_DIR$/spring-multi-module-application/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-multi-module-application/email-app/email-app.iml" filepath="$PROJECT_DIR$/spring-multi-module-application/email-app/email-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hystrix/emailService/emailService.iml" filepath="$PROJECT_DIR$/spring-boot-hystrix/emailService/emailService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hystrix-dashboard/emailService/emailService (1).iml" filepath="$PROJECT_DIR$/spring-boot-hystrix-dashboard/emailService/emailService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/s3-file-storage-example/file-storage-service.iml" filepath="$PROJECT_DIR$/s3-file-storage-example/file-storage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-jib-example/google-jib-example.iml" filepath="$PROJECT_DIR$/google-jib-example/google-jib-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-multi-module-application/hospital-management-system.iml" filepath="$PROJECT_DIR$/spring-multi-module-application/hospital-management-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer/kafka-consumer.iml" filepath="$PROJECT_DIR$/kafka-consumer/kafka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-publisher/kafka-publisher.iml" filepath="$PROJECT_DIR$/kafka-publisher/kafka-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hystrix/paytm/paytm.iml" filepath="$PROJECT_DIR$/spring-boot-hystrix/paytm/paytm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hystrix-dashboard/paytm/paytm (1).iml" filepath="$PROJECT_DIR$/spring-boot-hystrix-dashboard/paytm/paytm (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-angular8-crud-example/registration-service/registration-service.iml" filepath="$PROJECT_DIR$/springboot-angular8-crud-example/registration-service/registration-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-multi-module-application/repository/repository.iml" filepath="$PROJECT_DIR$/spring-multi-module-application/repository/repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-multi-module-application/service/service.iml" filepath="$PROJECT_DIR$/spring-multi-module-application/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-basic-security/spring-basic-security.iml" filepath="$PROJECT_DIR$/spring-basic-security/spring-basic-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot-2.x-Actuator/spring-boot-actuator.iml" filepath="$PROJECT_DIR$/Spring-Boot-2.x-Actuator/spring-boot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin/spring-boot-admin.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin/spring-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-client/spring-boot-admin-client.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-client/spring-boot-admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-apache-camel/spring-boot-camel.iml" filepath="$PROJECT_DIR$/spring-boot-apache-camel/spring-boot-camel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jasypt/spring-boot-crud-example-2.iml" filepath="$PROJECT_DIR$/spring-boot-jasypt/spring-boot-crud-example-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-crud-example/spring-boot-crud-example-2 (1).iml" filepath="$PROJECT_DIR$/spring-boot-crud-example/spring-boot-crud-example-2 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dockerize/spring-boot-docker.iml" filepath="$PROJECT_DIR$/spring-boot-dockerize/spring-boot-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-docker-maven-example/spring-boot-docker-maven.iml" filepath="$PROJECT_DIR$/spring-boot-docker-maven-example/spring-boot-docker-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticsearch-example/spring-boot-elasticserach-example.iml" filepath="$PROJECT_DIR$/spring-boot-elasticsearch-example/spring-boot-elasticserach-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticsearch-queryDSL/spring-boot-elasticserach-example (1).iml" filepath="$PROJECT_DIR$/spring-boot-elasticsearch-queryDSL/spring-boot-elasticserach-example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-email-freemarker/spring-boot-email-freemarker.iml" filepath="$PROJECT_DIR$/spring-boot-email-freemarker/spring-boot-email-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-h2/spring-boot-h2.iml" filepath="$PROJECT_DIR$/spring-boot-h2/spring-boot-h2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hibernate-mysql/spring-boot-hibernate.iml" filepath="$PROJECT_DIR$/spring-boot-hibernate-mysql/spring-boot-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-jasper-report/spring-boot-jasper-report.iml" filepath="$PROJECT_DIR$/spring-jasper-report/spring-boot-jasper-report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" filepath="$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-micrometer/spring-boot-micrometer.iml" filepath="$PROJECT_DIR$/spring-boot-micrometer/spring-boot-micrometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mockito/spring-boot-mockito.iml" filepath="$PROJECT_DIR$/spring-boot-mockito/spring-boot-mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-multiple-datasource/spring-boot-multiple-ds.iml" filepath="$PROJECT_DIR$/spring-boot-multiple-datasource/spring-boot-multiple-ds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-okta-sso/spring-boot-okta-sso.iml" filepath="$PROJECT_DIR$/spring-boot-okta-sso/spring-boot-okta-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot-WebSocket/spring-boot-websocket.iml" filepath="$PROJECT_DIR$/Spring-Boot-WebSocket/spring-boot-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Foundry/spring-cloud-foundry-example.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Foundry/spring-cloud-foundry-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-security-oauth2-example/spring-cloud-oauth2-example.iml" filepath="$PROJECT_DIR$/spring-boot-security-oauth2-example/spring-cloud-oauth2-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-redis/spring-data-redis-example.iml" filepath="$PROJECT_DIR$/spring-data-redis/spring-data-redis-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-freemarker/spring-freemarker-example.iml" filepath="$PROJECT_DIR$/spring-freemarker/spring-freemarker-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-graphQL/spring-graphQL.iml" filepath="$PROJECT_DIR$/spring-boot-graphQL/spring-graphQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mongodb/spring-mongodb.iml" filepath="$PROJECT_DIR$/spring-mongodb/spring-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-boot-mysql/spring-mysql.iml" filepath="$PROJECT_DIR$/Spring-boot-mysql/spring-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-vault-config-example/spring-vault-config-example.iml" filepath="$PROJECT_DIR$/spring-vault-config-example/spring-vault-config-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-multithreading-example/springboot-multithreading-example.iml" filepath="$PROJECT_DIR$/springboot-multithreading-example/springboot-multithreading-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-angular-example/user-service/user-service.iml" filepath="$PROJECT_DIR$/spring-security-angular-example/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-multi-module-application/web/web.iml" filepath="$PROJECT_DIR$/spring-multi-module-application/web/web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/aws-elasticbeanstalk-example" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/kafka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-h2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-publisher/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-client/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-boot-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/google-jib-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jasypt/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-graphQL/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-hystrix/paytm/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-hystrix/bookMyShow/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-hystrix/emailService/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mockito/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-okta-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Cloud-Foundry/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jasper-report/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-basic-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-dockerize/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-WebSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-camel-rest-dsl/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-micrometer/pom.xml" />
+        <option value="$PROJECT_DIR$/s3-file-storage-example/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-2.x-Actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-apache-camel/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-crud-example/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-aws-apigateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-hibernate-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-vault-config-example/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-elasticbeanstalk-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-email-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-hystrix-dashboard/paytm/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-hystrix-dashboard/bookMyShow/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-hystrix-dashboard/emailService/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-multiple-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-multi-module-application/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-angular-example/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-docker-maven-example/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-angular8-crud-example/registration-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-elasticsearch-example/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-multithreading-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-elasticsearch-queryDSL/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-security-oauth2-example/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring-Boot-2.x-Actuator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring-Boot-WebSocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring-Cloud-Foundry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring-boot-mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aws-elasticbeanstalk-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloud-foundry-eclipse-plugins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/google-jib-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka-consumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka-publisher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/s3-file-storage-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-basic-security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-apache-camel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-crud-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-docker-maven-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-dockerize" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-elasticsearch-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-elasticsearch-queryDSL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-email-freemarker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-graphQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-h2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-hibernate-mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-hystrix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-hystrix-dashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-jasypt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-logging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-micrometer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-mockito" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-multiple-datasource" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-okta-sso" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-security-oauth2-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-camel-rest-dsl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-data-redis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-freemarker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-jasper-report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-mongodb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-multi-module-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-security-angular-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-vault-config-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-angular8-crud-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-aws-apigateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-multithreading-example" vcs="Git" />
+  </component>
+</project>

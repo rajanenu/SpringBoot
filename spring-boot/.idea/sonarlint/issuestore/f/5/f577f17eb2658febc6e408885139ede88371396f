@@ -1,0 +1,19 @@
+
+Í
+java:S1598"³This file "MapReduceExample.java" should be located in "com/javatechie/map_reduce" directory, not in "/Users/rsiginen/Documents/Rajasekhar/JAVA-CODE/spring-boot/java8/map_reduce".(ƒ‘Âûÿÿÿÿ
+P
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(øãÛÊøÿÿÿÿ
+d
+java:S3655"KCall "reduceSumWithMethodReference.isPresent()" before accessing the value.(ş®Éùÿÿÿÿ
+K
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ì¤©ä
+L	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(öãÚØÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ë¥ÆÂûÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ş®Éùÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Å¦Æ¢ÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¿ºï¡şÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(î¿Õ¾
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Û³Ã»
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(«Æ’Çûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(â¯ÎÙ

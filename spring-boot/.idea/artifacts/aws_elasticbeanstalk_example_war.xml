@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="aws-elasticbeanstalk-example:war">
+    <output-path>$PROJECT_DIR$/aws-elasticbeanstalk-example/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>aws-elasticbeanstalk-example</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="aws-elasticbeanstalk-example-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="aws-elasticbeanstalk-example:war exploded" />
+    </root>
+  </artifact>
+</component>
