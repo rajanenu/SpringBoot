@@ -4,16 +4,17 @@ import lombok.*;
 
 import javax.persistence.*;
 
-@Entity(name = "LOGIN_USER")
+@Entity
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Getter
 @Setter
+@Table((name = "LOGIN_USER"))
 public class LoginUser {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue
     private Long id;
 
     @Column(name="NUID",nullable = false,unique = true)
