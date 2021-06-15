@@ -13,21 +13,20 @@ public class LoginService {
     @Autowired
     LoginRepository loginRepository;
 
-    public LoginUser saveUser(LoginUser user){
-       return loginRepository.save(user);
+    public LoginUser saveUser(LoginUser user) {
+        return loginRepository.save(user);
     }
 
-    public List<LoginUser> saveUsers(List<LoginUser> users){
+    public List<LoginUser> saveUsers(List<LoginUser> users) {
         return loginRepository.saveAll(users);
     }
 
-    public List<LoginUser> getAllUsers(){
+    public List<LoginUser> getAllUsers() {
         return loginRepository.findAll();
     }
 
-    public LoginUser getUserByNUID(String nuid){
+    public LoginUser getUserByNUID(String nuid) {
         return loginRepository.findByNUID(nuid);
     }
-
 
 }
